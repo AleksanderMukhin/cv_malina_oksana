@@ -39,6 +39,15 @@ body {
   margin-bottom: 10px;
 }
 
+.qr-code {
+display: block;  
+position: absolute;
+top: 130px;
+right: 100px;
+width: 200px;
+height: 200px;      
+}
+
 .about-list {
   font-style: normal;
   font-weight: 700;
@@ -86,9 +95,8 @@ body {
   color: #000000;
 }
 
-.sidebar {
-  
-  background: #9da8ba;
+.sidebar {  
+  background: #d8dadf;
   padding-top: 40px;
   width: 370px;
 }
